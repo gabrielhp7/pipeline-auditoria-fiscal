@@ -9,6 +9,12 @@ O fluxo de dados foi construído seguindo três camadas principais:
 2. **Orquestração e ETL (Cérebro):** Fluxo automatizado no n8n rodando via Docker. O fluxo consome a API, filtra registros com inconformidades operacionais ("Pendente") e trata as strings gerando alertas dinâmicos personalizados.
 3. **Visualização (Consumidor):** Painel interativo construído no Google Looker Studio, alimentado pelos dados tratados pela automação para fornecer métricas consolidadas (Faturamento, Imposto Devido) e alertas à equipe interna.
 
+## 📊 Dashboard Interativo
+
+O painel executivo foi desenvolvido no Google Looker Studio e pode ser acessado de forma interativa através do link abaixo:
+
+🔗 [Clique aqui para acessar o Dashboard no Looker Studio]([https://datastudio.google.com/s/ugt1Cp3UH4Q])
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python (Flask)**
