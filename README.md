@@ -13,7 +13,7 @@ O fluxo de dados foi construído seguindo três camadas principais:
 
 O painel executivo foi desenvolvido no Google Looker Studio e pode ser acessado de forma interativa através do link abaixo:
 
-🔗 [Clique aqui para acessar o Dashboard no Looker Studio]([https://datastudio.google.com/s/ugt1Cp3UH4Q])
+🔗 [Clique aqui para acessar o Dashboard no Looker Studio](https://datastudio.google.com/s/ugt1Cp3UH4Q)
 
 ## 🛠️ Tecnologias Utilizadas
 
