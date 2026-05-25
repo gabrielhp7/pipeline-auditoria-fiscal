@@ -19,7 +19,7 @@ O painel executivo foi desenvolvido no Google Looker Studio e pode ser acessado 
 
 Para uma visão detalhada sobre a estratégia, arquitetura e resultados deste projeto, acesse a apresentação interativa abaixo:
 
-🔗 [Visualizar Apresentação do Projeto](https://gamma.app/docs/Pipeline-Automatizado-de-Auditoria-Fiscal-e-Business-Intelligence-5pdai0mhta9psyl)
+🔗 [Visualizar Apresentação do Projeto](https://auditoria-fiscal-bi-p2g4p97.gamma.site/)
 
 ## 🛠️ Tecnologias Utilizadas
 
