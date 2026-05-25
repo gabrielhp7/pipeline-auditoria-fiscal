@@ -15,6 +15,12 @@ O painel executivo foi desenvolvido no Google Looker Studio e pode ser acessado 
 
 🔗 [Clique aqui para acessar o Dashboard no Looker Studio](https://datastudio.google.com/s/ugt1Cp3UH4Q)
 
+## 📽️ Apresentação Executiva
+
+Para uma visão detalhada sobre a estratégia, arquitetura e resultados deste projeto, acesse a apresentação interativa abaixo:
+
+🔗 [Visualizar Apresentação do Projeto](https://gamma.app/docs/Pipeline-Automatizado-de-Auditoria-Fiscal-e-Business-Intelligence-5pdai0mhta9psyl)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python (Flask)**
