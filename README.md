@@ -3,7 +3,7 @@
 Este projeto simula uma solução real de engenharia de dados e automação de processos internos para o setor de contabilidade/fiscal. A arquitetura integra uma API local, um orquestrador de fluxos de trabalho (ETL) conteinerizado e um painel de Business Intelligence para tomada de decisão.
 
 ## 🎛️ Arquitetura do Projeto
-
+![Fluxo de Automação no n8n](workflow.png)
 O fluxo de dados foi construído seguindo três camadas principais:
 1. **Fonte de Dados (Produtor):** API REST desenvolvida em Python (Flask) que disponibiliza dados estruturados de faturamento, impostos e status de conformidade das empresas clientes.
 2. **Orquestração e ETL (Cérebro):** Fluxo automatizado no n8n rodando via Docker. O fluxo consome a API, filtra registros com inconformidades operacionais ("Pendente") e trata as strings gerando alertas dinâmicos personalizados.
